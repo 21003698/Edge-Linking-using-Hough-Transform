@@ -96,12 +96,12 @@ plt.show()
 
 
 ### Canny Edge detector output
-![](e3.jpg)
+![](e4.jpg)
 
 
 
 ### Display the result of Hough transform
-![](e4.jpg)
+![](e3.jpg)
 
 
 
