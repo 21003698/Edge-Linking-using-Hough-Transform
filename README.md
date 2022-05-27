@@ -49,7 +49,7 @@ End the program.
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
-image = cv2.imread("road.png")
+image = cv2.imread("bugatti.png")
 smoothImage = cv2.GaussianBlur(image,(3,3),0)
 plt.imshow(smoothImage)
 grayImage = cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
@@ -91,23 +91,16 @@ plt.show()
 ## Output
 
 ### Input image and grayscale image
-<br>
-<br>
-<br>
-<br>
+![](e1.png)
 
 ### Canny Edge detector output
-<br>
-<br>
-<br>
-<br>
+![](e2.png)
+
 
 
 ### Display the result of Hough transform
-<br>
-<br>
-<br>
-<br>
+![](e3.png)
+
 
 
 
