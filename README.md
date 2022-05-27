@@ -91,15 +91,15 @@ plt.show()
 ## Output
 
 ### Input image and grayscale image
-![](e1.png)
+![](e1.jpeg)
 
 ### Canny Edge detector output
-![](e2.png)
+![](e2.jpeg)
 
 
 
 ### Display the result of Hough transform
-![](e3.png)
+![](e3.jpeg)
 
 
 
